@@ -1,2 +1,4 @@
 # Playlist-Generator
-Makes a Playlist of 10 Songs on the basis of the mood you specify as an input
+This is my portfolio project as an aspiring AI Product Manager. It uses the Google Gemini API to create a personalized, mood-based playlist based on a single word input.
+
+Feel free to test it out!
